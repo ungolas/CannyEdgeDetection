@@ -68,3 +68,7 @@ The program reads an image (for example `rubens.jpg` in the image folder), appli
 - **`hyst_thresh_auto`:** Automatically computes thresholds for hysteresis based on proportions.
 - **`show_image`:** Helper function to display images using OpenCV or Matplotlib.
 - Additional helper functions in helper_functions.py provide plotting capabilities and noise addition.
+
+## Credits
+
+Developed as part of the Machine Vision Course exercises at TU Wien by Matthias Hirschmanner and Clara Haider.
